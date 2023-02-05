@@ -1,0 +1,47 @@
+ANDREI HAPANENKA www.linkedin.com/in/andrei-hapanenka/
+ Java Software Engineer
+Poznan Poland, phone +48-500713197 email: G5119@ya.ru, 
+WhatsApp +48-500713197 , Telegram @GG556611
+CAREER SUMMARY:
+I am a java developer with commercial development experience. 
+I have experience in developing a web application for an online store that sells Indian goods
+around the world. The most modern technologies and libraries were chosen to create a
+competitive product.
+I am a purposeful and self-confident person who works hard, studies and constantly improves
+my skills in order to achieve maximum goals and results. And now I am in search of new
+opportunities and development. I am sure that my skills and experience will help me to be a
+valuable player in my future company for a long time.
+WORK EXPERIENCE:
+GoaBay, Startup
+Java Web Developer |  July, 2022 - Present
+Creating and maintaining a web application using various programming languages;
+Optimize productivity by using software to organize, track bug fixes, and add feature
+requests;
+Collaborate with other developers to update the website and create new features;
+Ensuring the satisfaction of users and the customer by providing operational technical
+support.
+SPC Builder  
+Head of department  | March, 2012 - August, 2021
+My specific responsibilities included a very large list of tasks - from managing and
+organizing technological processes and team work to supply and labor protection.
+EDUCATION:
+2021 - 2022 | Courses Java development
+EPAM - Introduction to Java
+IT Academy Minsk - Java Core
+Udemy - Spring - Full course
+IT Academy Minsk - Java Enterprise Solutions Development
+Technology
+2003 - 2009 | BSU University, Higher education 
+Economics and Management, Economist
+SKILLS:
+Java Core
+Spring Core/MVC/Boot/Rest API/Security(JWT)
+Hibernate ORM/Data JPA
+SQL(MySQL/Postgres, RDS) 
+NoSQL(MongoDB)
+jUnit
+Tools (Git, Maven, Docker, RabbitMQ, AWS (Elastic Beanstalk (RDS/EC2), S3), Postman,
+ngrok, FlyWay, Swagger (OpenAPI))
+English - B1 | Belarusian/Russian - native
+RELEVANT PROJECTS:
+https://gitlab.com/Hapanenka
